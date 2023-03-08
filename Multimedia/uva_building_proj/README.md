@@ -18,13 +18,13 @@ results中包含代码运行的结果，source包含基于pytorch训练的模型
 └─video
 
 ## 运行过程
-从http://disk-sophgo-vip.quickconnect.cn/sharing/3SekDgy2b
-使用python命令通过分享文件的url下载
+从http://disk-sophgo-vip.quickconnect.cn/sharing/RYAe05rBp下载，
+或者使用python命令通过分享文件的url下载
 命令如下：
 # 安装pip包
 sudo pip3 install dfn
 # 下载文件
-python3 -m dfn --url http://disk-sophgo-vip.quickconnect.cn/sharing/3SekDgy2b
+python3 -m dfn --url http://disk-sophgo-vip.quickconnect.cn/sharing/RYAe05rBp
 
 下载完成后包括source文件和video;
 
