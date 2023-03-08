@@ -31,6 +31,8 @@ python3 -m dfn --url http://disk-sophgo-vip.quickconnect.cn/sharing/RYAe05rBp
 并将source中的bmodel的模型复制到bin中。
 拷贝bin至SE5，修改run_ocv.sh，将outputName改为自己的rtmp服务器地址。执行`bash run_ocv.sh`，在pc上用vlc查看接收的视频流。
 
+具体教程阅读doc中的文件
+
 ## pc端rtmp服务器配置
 ### 1.安装
   1. 下载nginx：
