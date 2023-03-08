@@ -1,7 +1,7 @@
 # uva_building_proj
 uva_building_proj是无人机航拍建筑物检测和对比项目。
 
-从http://disk-sophgo-vip.quickconnect.cn/sharing/RYAe05rBp  下载运行文件
+从http://disk-sophgo-vip.quickconnect.cn/sharing/IbPMaHIGn  下载运行文件
 
 项目由以下文件夹构成。其中，bin包含可执行文件、执行脚本、深度学习模型等；
 
